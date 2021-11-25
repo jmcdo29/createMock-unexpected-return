@@ -1,0 +1,18 @@
+{
+  "name": "odd-jest-error",
+  "version": "1.0.0",
+  "description": "Minimum reproduction to show the error that I get when using createMock",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jay McDoniel <me@jaymcdoniel.dev>",
+  "license": "MIT",
+  "devDependencies": {
+    "@golevelup/ts-jest": "^0.3.2",
+    "@types/jest": "^27.0.3",
+    "jest": "^27.3.1",
+    "ts-jest": "^27.0.7",
+    "typescript": "^4.5.2"
+  }
+}
